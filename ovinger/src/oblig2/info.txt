@@ -1,0 +1,5 @@
+legg inn keys på følgende måte: 
+
+keytool -genkey -keyalg RSA -keysize 2048 -validity 360 -alias mykey -keystore myKeyStore.jks
+keytool -export -alias mykey -keystore myKeyStore.jks -file mykey.cert
+keytool -import -file mykey.cert -alias mykey -keystore myTrustStore.jts
