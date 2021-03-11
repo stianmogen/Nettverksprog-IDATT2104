@@ -10,4 +10,4 @@ Oblig 5 er Spring Boot Applikasjon, kjører C++ kode i Docker Image med React Fr
 
 Oblig 6 skrevet i Javascript
 
-Oblig 5 og 6 er gjort sammen med Eirik Steira, github.com/Eirsteir
+Oblig 5 og 6 er gjort sammen med Eirik Steira, https://github.com/Eirsteir 
